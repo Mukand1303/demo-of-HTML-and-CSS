@@ -1,0 +1,48 @@
+body{
+    border-width: 100%;
+    border-style: double;
+    border-color: black;
+}
+
+
+.aaa{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 100px;
+}
+.bbb{
+    font-weight: bold;
+    line-height: 0%;
+    line-height: 0%;
+    line-height: 0%;
+}
+
+
+
+.ccc{
+    text-decoration: none;
+}
+div{
+    text-align: center;
+}
+.bordered-element{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin: 30px;
+    padding-bottom: 10px;
+    margin-left: 285px;
+    margin-right: 285px;
+    
+    
+    
+}
+p.mmm{
+    padding-left: 260px;
+    margin-right: 230px;
+}
+
+
+
+
+
+
+
